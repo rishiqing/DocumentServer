@@ -6,10 +6,10 @@
 	url = https://github.com/ONLYOFFICE/core.git
 [submodule "web-apps"]
 	path = web-apps
-	url = https://github.com/ONLYOFFICE/web-apps.git
+	url = https://github.com/rishiqing/web-apps.git
 [submodule "server"]
 	path = server
-	url = https://github.com/ONLYOFFICE/server.git
+	url = https://github.com/rishiqing/server.git
 [submodule "dictionaries"]
 	path = dictionaries
 	url = https://github.com/ONLYOFFICE/dictionaries.git
